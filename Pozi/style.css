@@ -1,0 +1,21 @@
+.logo img{
+	border: solid;
+}
+;.logo{
+	padding-top: 40px
+}
+.nav-bar a{
+	color:#b0d7b8;
+font-weight: 30px;
+padding-top: 10px;
+}
+.nav-bar {
+	background-color: #2e683b;
+}
+
+.lower-bar {
+background-color: #b0d7b8;
+	padding-top: 10px;
+
+
+}
